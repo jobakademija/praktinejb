@@ -1,0 +1,2 @@
+# praktinejb
+užduočiai atlikti
