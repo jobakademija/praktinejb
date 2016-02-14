@@ -1,2 +1,2 @@
-# praktinejb
-užduočiai atlikti
+# Jonas Boguševičius
+praktinės užduoties atlikimas
